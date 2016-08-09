@@ -1,0 +1,28 @@
+
+
+#map {
+    margin:2px;
+	height: 95vh;
+		
+	}
+
+.text{
+    font-size: 18px; 
+    }	
+
+
+button {
+    color: #fff;
+    padding: 3px 4px;
+    height: 39px;
+    background: lightskyblue;
+    border-color: deepskyblue;
+    border-radius: 15px;
+    cursor: pointer;
+    margin: 2px;
+    }
+
+button:hover {
+    background: royalblue;
+    border-color: midnightblue;
+    }
